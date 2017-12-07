@@ -1,0 +1,4 @@
+function insertData($data){
+
+
+}
