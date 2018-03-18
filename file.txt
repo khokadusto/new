@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+modified from forked branch
+=======
 yes it is changed
+>>>>>>> upstream/master
